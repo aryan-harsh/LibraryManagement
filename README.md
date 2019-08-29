@@ -3,7 +3,7 @@
 
 ![](https://img.shields.io/badge/java-.-green) 
 ![](https://img.shields.io/badge/mysql-%2C-orange)
-![](https://img.shields.io/badge/softare-assignment-blue)
+![](https://img.shields.io/badge/software-assignment-blue)
 
 ## Problem Statement:
 
